@@ -1,6 +1,7 @@
 # 👋 Hi, I'm ADUL 
 
-👨‍💻 Software Engineer 
+👨‍💻 Software Engineer Full stack developer
+
 👨‍🎓 Studied Faculty of Science at the Prince of Songkla University, Thailand
 
 # 💻 Tech Stack
