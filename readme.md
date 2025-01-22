@@ -2,8 +2,8 @@
 <a href="https://www.github.com/wauswantok11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wauswantok11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 # Job description
-👨‍💻 Software Engineer Full stack developer
-  * Proficient in RESTful API Backend development.
+👨‍💻 Software Engineer (Full Stack Developer) at INET Thailand
+  * Proficient in RESTful API backend development using Golang and MySQL
   * Basic DevOps management.
 
 👨‍🎓 Studied Faculty of Science at the Prince of Songkla University, Thailand
